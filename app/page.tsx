@@ -84,7 +84,7 @@ export default function HomePage() {
 
       <main className="flex-1">
         {/* Hero Section */}
-        <section className="container mx-auto px-4 py-24 text-center max-w-4xl">
+        <section className="container mx-auto px-6 py-24 text-center max-w-4xl">
           <Badge variant="secondary" className="mb-4">
             <Sparkles className="size-3" />
             Next.js + TailwindCSS v4
@@ -123,7 +123,7 @@ export default function HomePage() {
         <Separator />
 
         {/* Features Grid */}
-        <section className="container mx-auto px-4 py-20 max-w-6xl">
+        <section className="container mx-auto px-6 py-20 max-w-6xl">
           <div className="text-center mb-12">
             <h2 className="text-3xl font-bold tracking-tight mb-3">
               포함된 기술 스택
@@ -177,7 +177,7 @@ export default function HomePage() {
         <Separator />
 
         {/* CTA Section */}
-        <section className="container mx-auto px-4 py-20 text-center max-w-2xl">
+        <section className="container mx-auto px-6 py-20 text-center max-w-2xl">
           <h2 className="text-3xl font-bold tracking-tight mb-4">
             지금 바로 시작하세요
           </h2>
